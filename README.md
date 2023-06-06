@@ -10,4 +10,4 @@ https://nbviewer.org/github/Uberwald/Junior-ML-contest/blob/main/House_Price_Pre
 
 https://colab.research.google.com/drive/1_wR4w8KrBeKSnJdCI-RQqI3gndNYfLG1?usp=sharing
 
-Через последнюю можно посмтреть интерактивную карту Индии, с обозначенными на ней координатами недвижимости.
+Через последнюю можно посмотреть интерактивную карту Индии, с обозначенными на ней координатами недвижимости.
